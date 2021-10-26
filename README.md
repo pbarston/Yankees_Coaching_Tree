@@ -3,7 +3,7 @@
 Network Analysis of the Yankees Coaching Tree
 
 New semester, new challenges - this is the repository to follow along with my work using network science/graph theory to analyze the New York Yankees coaching tree.
-You can follow along here as well as at my blog: bitly.com/pbarston.
+You can follow along here as well as at my blog: www.bitly.com/pbarston.
 
 If you want to follow along/try your hand:
 
