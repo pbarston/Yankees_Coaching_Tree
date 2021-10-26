@@ -7,7 +7,7 @@ You can follow along here as well as at my blog: bitly.com/pbarston.
 
 If you want to follow along/try your hand:
 
-#Data contains the only .csv you will need to start: the list of New York Yankees coaching staffs throughout their history, courtesy of Baseball Cube. 
+#Yankees Managers Historical.csv is the only .csv you will need to start: the list of New York Yankees coaching staffs throughout their history, courtesy of Baseball Cube. 
 
 #Code contains the code, which will be consistently updated as I move along in the project. 
 
