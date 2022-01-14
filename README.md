@@ -3,7 +3,7 @@
 Network Analysis of the Yankees Coaching Tree
 
 New semester, new challenges - this is the repository to follow along with my work using network science/graph theory to analyze the New York Yankees coaching tree.
-You can follow along here at #Peter_Code as well as at my blog: www.bitly.com/pbarston.
+You can follow along here with the public code as well as at my blog: _______
 
 If you want to try your own hand:
 
@@ -11,6 +11,4 @@ If you want to try your own hand:
 
 #Public_Code contains the code you can use. PLEASE NOTE: YOU WILL HAVE TO MANUALLY CHANGE YOUR DIRECTORY ("YOUR DIRECTORY HERE") IN ORDER TO GET THE SUBSEQUENT STEPS.
 
-I'll be updating the codes as I progress each week. 
-
-Let me know what you think! 
+Let me know your thoughts - interesting to see the evolution of just how connected the modern Yankees coaching staff has become! 
